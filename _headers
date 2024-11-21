@@ -1,0 +1,4 @@
+# HTTP headers added to files and pages on this site
+
+/*
+  X-Frame-Options: SAMEORIGIN
