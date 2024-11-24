@@ -1,0 +1,4 @@
+Version:2024112401
+# the mirror setting is still here for backward compatibility with v1.3
+mirror=https://files.rkhunter.dev
+remote=https://files.rkhunter.dev
