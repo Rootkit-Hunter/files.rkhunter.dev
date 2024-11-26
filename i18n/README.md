@@ -1,4 +1,6 @@
 ## Translations
-The files in this root directory are for old v1.3 installs.
 
-Later installs look in their own version folders.
+All translations can be found in subfolders for the version number (Thank you previous maintainers).
+
+Versions 1.2.x did not have translations.
+
